@@ -1,0 +1,14 @@
+{
+    "name": "ashehui/yii2-components",
+    "description": "Yii2 components",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2-app-advanced": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "huixianzhao",
+            "email": "huixianzhao@gmail.com"
+        }
+    ]
+}
