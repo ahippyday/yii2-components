@@ -10,5 +10,10 @@
             "name": "huixianzhao",
             "email": "huixianzhao@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "ixia\\components\\": ""
+        }
+    }
 }
