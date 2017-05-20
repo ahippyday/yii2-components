@@ -3,7 +3,7 @@
     "description": "Yii2 components",
     "type": "library",
     "require": {
-        "yiisoft/yii2-app-advanced": "^2.0"
+        "yiisoft/yii2-app-advanced": "dev-master"
     },
     "authors": [
         {
